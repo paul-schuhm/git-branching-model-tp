@@ -1,13 +1,9 @@
-# Démo *Git workflows*
-
-Projet démo pour le cours *Git Workflows*.
+# TP *Git workflows*
 
 Contribuez pour **rendre cette application web fonctionnelle**.
 
-1. **Forker** le projet.
-2. **Clôner** le projet sur votre machine.
-3. **Créer** les branches nécessaires (adaptées au votre workflow Git choisi) et effectuer votre travail pour rendre l'application fonctionnelle.
-4. Lorsque vous avez fini, **faire** une *Pull Request* sur ce dépôt.
+- **Clôner** le projet sur votre machine.
+- **Créer** les branches nécessaires (adaptées au votre workflow Gitflow) et effectuer votre travail pour rendre l'application fonctionnelle.
 
 ## Quick start
 
